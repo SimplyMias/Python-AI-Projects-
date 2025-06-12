@@ -1,0 +1,23 @@
+# 🎬 Movie Manager - Python CLI App
+
+This is a simple command-line Python app that helps you manage your personal movie collection using lists.
+
+## 🔧 Features
+
+- Add a movie
+- Remove a movie
+- View all movies
+- Search a movie
+- Count total movies
+- Sort the movie list
+
+## 📌 Technologies
+- Python 3
+- List methods
+- Conditional statements
+- Loops
+
+## 🚀 How to Run
+
+```bash
+python MovieManager.py
